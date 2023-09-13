@@ -8,7 +8,7 @@ To use this project you have to have a Storyblok account. If you don't have one 
 ### Find the slides [here](https://docs.google.com/presentation/d/1t7WzL531xew8GDkNNTvr9oxYBwvmhuGs_YsZA-il84Y/edit?usp=sharing)
 ### Find the notion page [here](https://storyblok.notion.site/CityJS-India-Go-Headless-with-Next-js-13-and-Storyblok-0bd2e8be30964eb9b062309228d60ab5)
 
-### Deployed URL - https://cityjs-india-2023-workshop.vercel.app/
+### Deployed URL - https://cityjs-india-workshop-2023.vercel.app/
 
 
 ## How to get started?
